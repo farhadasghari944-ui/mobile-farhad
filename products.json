@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "title": "Apple iPhone 13 128GB",
+      "brand": "Apple",
+      "price": 45500000,
+      "category": "phone",
+      "specs": "نمایشگر 6.1\"، دوربین دوگانه",
+      "image": ""
+    },
+    {
+      "title": "Samsung Galaxy A54 256GB",
+      "brand": "Samsung",
+      "price": 28900000,
+      "category": "phone",
+      "specs": "دوربین 50MP، باتری 5000mAh",
+      "image": ""
+    },
+    {
+      "title": "Xiaomi Redmi Note 12",
+      "brand": "Xiaomi",
+      "price": 14900000,
+      "category": "phone",
+      "specs": "AMOLED، شارژ سریع",
+      "image": ""
+    },
+    {
+      "title": "شارژر سریع 33W",
+      "brand": "Baseus",
+      "price": 790000,
+      "category": "accessory",
+      "specs": "Type-C + USB-A",
+      "image": ""
+    },
+    {
+      "title": "گلس سرامیکی iPhone 13",
+      "brand": "Ceramic",
+      "price": 220000,
+      "category": "accessory",
+      "specs": "تمام‌چسب، ضدخش",
+      "image": ""
+    },
+    {
+      "title": "قاب سیلیکونی Galaxy A54",
+      "brand": "NoBrand",
+      "price": 350000,
+      "category": "accessory",
+      "specs": "لمس نرم، محافظت از دوربین",
+      "image": ""
+    }
+  ]
+}
