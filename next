@@ -1,0 +1,15 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "خدمات نرم‌افزاری موبایل فرهاد",
+  "provider": { "@type": "Organization", "name": "موبایل فرهاد" },
+  "areaServed": "IR",
+  "serviceType": ["توسعه اپلیکیشن", "طراحی سایت", "یکپارچه‌سازی API", "پشتیبانی نرم‌افزار"],
+  "offers": {
+    "@type": "AggregateOffer",
+    "lowPrice": "29900000",
+    "priceCurrency": "IRR"
+  }
+}
+</script>
