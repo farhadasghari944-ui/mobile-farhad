@@ -1,0 +1,15 @@
+{
+  "brand_name": "موبایل فرهاد",
+  "brand_short": "MF",
+  "brand_color": "#2563eb",
+  "brand_text_color": "#ffffff",
+  "domain": "https://example.com",
+  "phone": "09051526381",
+  "telegram_link": "https://t.me/+989051526381",
+  "whatsapp_link": "https://wa.me/989051526381",
+  "email": "info@example.com",
+  "city": "تهران",
+  "year": "2025",
+  "logo_path": "/assets/logo.svg",
+  "favicon_path": "/assets/favicon.svg"
+}
